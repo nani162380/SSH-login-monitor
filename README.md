@@ -47,6 +47,7 @@ sudo python3 app.py
 # Open dashboard
 http://localhost:5000
 ```
+Dashboard Preview-(Screenshot_2026-03-13_151238.png)
 
 ## Real World Use
 Used by SOC teams to monitor servers for intrusion attempts and brute force attacks.
